@@ -20,7 +20,6 @@ Automatically calculated revenue using DAX
 
 Visual comparison across categories and cities
 
-Beginner-friendly but professional structure
 
 🔹 Tools Used
 
